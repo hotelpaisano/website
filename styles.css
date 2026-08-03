@@ -380,11 +380,12 @@ a {
   margin: 0;
   color: var(--maroon-deep);
   font-family: var(--serif);
-  font-size: 16px;
-  font-weight: 400;
-  letter-spacing: 0.12em;
-  line-height: 20px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  line-height: 1.28;
   text-align: center;
+  text-transform: uppercase;
   white-space: nowrap;
   opacity: 0;
   transform: translateX(-50%);
@@ -636,8 +637,8 @@ a {
     display: block;
     top: 404px;
     width: calc(100% - 40px);
-    font-size: 0.88rem;
-    letter-spacing: 0.08em;
+    font-size: 0.64rem;
+    letter-spacing: 0.1em;
     white-space: normal;
   }
 
